@@ -1,0 +1,7 @@
+name 'apache-setup'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures apache-setup'
+long_description 'Installs/Configures apache-setup'
+version '0.1.0'
